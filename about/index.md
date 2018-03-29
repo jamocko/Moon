@@ -8,6 +8,7 @@ comments: false
     
 <center><a href="http://jamocko.github.io/"><b>Julie Mocko, Ph.D.</b></a> Data Scientist | Biomedical Research Scientist</center>
 
+
 I'm a biomedical research scientist turned data scientist, and I am in the final months of my post-doctoral research fellowship in the Lang Lab at the Cincinnati Children's Hospital Medical Center.  For the past 11 years, I have been collecting data, wrangling it into a usable format, exploring and visualizing it, conducting statistical analyses on it, and finally presenting it - both in publications in peer-reviewed journals, as well as in seminars and at international conferences.
 
 ### Data Science Career Pivot
@@ -24,9 +25,5 @@ In 2010, I joined the Ph.D. program in Physiological Optics and Vision Science a
 
 I defended my Ph.D. dissertion in May, 2017 (GPA 4.0), and began my post-doctoral training with [Dr. Richard Lang at the Cincinnati Children’s Hospital Medical Center](https://www.cincinnatichildrens.org/research/divisions/o/ophthalmology/labs/lang).  At the Lang Lab, I **developed a new statistical methodology for the measurement and analysis of gene expression data**, and optimized protocols with greater quality control for the collection of data on gene expression to conform to industry standards (MIQE guidelines).  I've also  **automated data analysis and results visualization for the laboratory (Excel), and have begun creating data analysis, visualization and statistical tools for the lab in R.**
 
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Contact Me](mailto:jmocko@gmail.com){: .btn}

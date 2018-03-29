@@ -6,15 +6,16 @@ date: 2018-03-28
 comments: false
 ---
     
-<center><a href="http://jamocko.github.io/"><b>Julie Mocko, Ph.D.</b></a> Data Scientist | Biomedical Research Scientist</center>
+<center><a href="http://juliemocko.com/"><b>Julie Mocko, Ph.D.</b></a> Data Scientist & Biomedical Research Scientist</center>
 
+## Professional Summary
 
 I'm a biomedical research scientist turned data scientist, and I am in the final months of my post-doctoral research fellowship in the Lang Lab at the Cincinnati Children's Hospital Medical Center.  For the past 11 years, I have been collecting data, wrangling it into a usable format, exploring and visualizing it, conducting statistical analyses on it, and finally presenting it - both in publications in peer-reviewed journals, as well as in seminars and at international conferences.
 
 ### Data Science Career Pivot
 Throughout my career as a vision research scientist (***see Background and Research Career below***), I have always been most excited by working with the data.  I love getting my hands on a massive set of measures and metrics, organizing it, and beginning with exploratory analysis and visualization.  Going from numbers to story, and statistics to insights and explanations is my favorite part of science.  Although I have learned a great deal about biomedical research from my years at the bench and working with animal models of human disease, I am looking forward to stepping away from my lab coat and tackling larger, faster, and more complex data sets.  My goal is to bring my traditional scientific training and years of experience with messy, real world data to the field of data science.
 
-**Current Data Science Projects - Coming Soon**
+[**Current Data Science Projects - Coming Soon**](http://juliemocko.com){: .btn}
 
 ### Background and Research Career
 My love of data began during sophomore year in college, when I joined the [Fulton Lab](http://www.infantvision.org/alumni--collaborators.html) in the Department of Pediatric Ophthalmology at Children's Hospital Boston, where I began conducting research on a blinding disease that affects prematurely born infants (retinopathy of prematurity).  **As part of my research training, I learned image analysis (MATLAB, Photoshop), electrophysiological signal processing (MATLAB), data analysis and statistics (Excel, SPSS), data visualization (SigmaPlot), and presentation**. My undergraduate work culminated in a [Fight for Sight Summer Student Fellowship](https://www.fightforsight.org/Grants/Awardees/AwardeeProfile/profile/1979/), six co-authored [publications](https://scholar.google.com/citations?user=99ESO_8AAAAJ&hl=en ) and five abstracts, three of which I presented at an annual international vision research conference (Association for Research in Vision and Ophthalmology  - ARVO). 

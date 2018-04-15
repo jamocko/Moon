@@ -11,14 +11,14 @@ comments: false
 *Division of Developmental Biology and Chronobiology*  
 *3333 Burnett Avenue*  
 *Cincinnati, OH 45229*  
-*<abbr title="phone">P:</abbr> (832) 457-1897*  
+<abbr title="phone">P:</abbr> *(832) 457-1897*  
 *jmocko@gmail.com*  
 
 > Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
 				
 # Education
-**<abbr title="Doctorate of Philosophy">Ph.D.</abbr>, Physiological Optics and Vision Science**  
-*University of Houston, College of Optometry, Houston, TX, 2017  
+<abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science**  
+*University of Houston, College of Optometry, Houston, TX, 2017*  
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
 				
 				<p><strong>B.S., Behavioral Neuroscience

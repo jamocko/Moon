@@ -14,7 +14,7 @@ comments: false
 <abbr title="phone">P:</abbr> *(832) 457-1897*  
 *jmocko@gmail.com*  
 
-> Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
+Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences. {: .notice}
 				
 # Education
 <abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science**  

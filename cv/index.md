@@ -19,11 +19,11 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 # Education
 <table>
   <tr>
-    <td><abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science** </td>
+      <td><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
     <td>May 2017</td>
   </tr>
       <tr>
-    <td>*University of Houston, College of Optometry</td>
+          <td><i>University of Houston, College of Optometry</i></td>
     <td>Houston, TX, 77204</td>
   </tr>
 </table>

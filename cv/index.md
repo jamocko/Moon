@@ -17,17 +17,26 @@ comments: false
 Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences. {: .notice}
 				
 # Education
-|Ph.D., Physiological Optics and Vision Science |   May 2017    |
-|University of Houston, College of Optometry    |   Houston, TX |
-{: rules="groups"}
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  border: 1px solid #000;
+  width: auto;
+}
 
-## Tables
-
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-{: rules="groups"}
+<table>
+  <tr>
+    <td><abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science** </td>
+    <td>May 2017</td>
+  </tr>
+      <tr>
+    <td>*University of Houston, College of Optometry</td>
+    <td>Houston, TX, 77204</td>
+  </tr>
+</table>
 
 <abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science**  
 *University of Houston, College of Optometry, Houston, TX, 2017*  

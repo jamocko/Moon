@@ -5,7 +5,7 @@ tags: [about, Julie, Mocko]
 date: 2018-03-28
 comments: false
 ---
-#Julie A. Mocko, Ph.D.  
+# Julie A. Mocko, Ph.D.  
 *Cincinnati Children's Hospital Medical Center*  
 *Department of Pediatrics*  
 *Division of Developmental Biology and Chronobiology*  
@@ -14,9 +14,9 @@ comments: false
 *<abbr title="phone">P:</abbr> (832) 457-1897*  
 *jmocko@gmail.com*  
 
->Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
+> Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
 				
-#Education
+# Education
 **<abbr title="Doctorate of Philosophy">Ph.D.</abbr>, Physiological Optics and Vision Science**  
 *University of Houston, College of Optometry, Houston, TX, 2017  
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*

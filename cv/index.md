@@ -5,20 +5,15 @@ tags: [about, Julie, Mocko]
 date: 2018-03-28
 comments: false
 ---
-<div class="cv">
-	<a href="/files/McGlone-CV-2015.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
-				<div itemscope itemtype="http://data-vocabulary.org/Person">
-				<span itemprop="name"><h1>Julie A. Mocko, Ph.D.</h1></span>
-				<address>
-				<span itemprop="affiliation"><strong>Cincinnati Children's Hospital Medical Center</strong><br></span>
-				<span itemprop="affiliation">Department of Pediatrics<br></span>
-                <span itemprop="affiliation">Division of Developmental Biology and Chronobiology<br></span>
-				3333 Burnett Avenue<br>
-				Cincinnati, OH 45229<br>
-				<abbr title="phone">P:</abbr> (832) 457-1897 <br>
-				<span class="obfuscate">jmocko@gmail.com</span>
-				</address>
-				</div>
+#Julie A. Mocko, Ph.D.
+*Cincinnati Children's Hospital Medical Center*
+*Department of Pediatrics*
+*Division of Developmental Biology and Chronobiology*
+*3333 Burnett Avenue*
+*Cincinnati, OH 45229*
+*<abbr title="phone">P:</abbr> (832) 457-1897*
+*jmocko@gmail.com*
+
 				
 				<p>Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.</p>
 				

@@ -4,7 +4,7 @@ title:  "Growth Analysis Project"
 date:   2018-04-15
 excerpt: "Click "Read More" to view my R Notebook showing data exploration and analysis"
 project: true
-feature: http://jamocko.github.io/assets/img/growth_analysis_snip.png
+feature: http://jamocko.github.io/assets/img/growth_analysis_snip.PNG
 tag:
 - projects
 - R notebook

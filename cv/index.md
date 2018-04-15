@@ -14,7 +14,9 @@ comments: false
 <abbr title="phone">P:</abbr> *(832) 457-1897*  
 *jmocko@gmail.com*  
 
-Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences. {: .notice}
+Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
+
+<hr></hr>
 				
 # Education
 <table>
@@ -24,16 +26,24 @@ Self-directed and highly motivated data scientist and biomedical researcher look
   </tr>
       <tr>
           <td><i>University of Houston, College of Optometry</i></td>
-    <td>Houston, TX, 77204</td>
+    <td>Houston, TX</td>
+  </tr>
+</table>
+**Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
+
+<table>
+  <tr>
+      <td><abbr title="Bachelors of Science"><b>B.S.</b></abbr><b>, Behavioral Neuroscience</b></td>
+    <td>Dec 2008</td>
+  </tr>
+      <tr>
+          <td><i>Northeastern University</i></td>
+    <td>Boston, MA, </td>
   </tr>
 </table>
 
-<abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science**  
-*University of Houston, College of Optometry, Houston, TX, 2017*  
-**Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
-				
-				<p><strong>B.S., Behavioral Neuroscience
-                <br>Northeastern University, Boston, MA, 2009</strong></p>
+
+
 				
 				<h2>Professional Employment</h2>
 				<p><strong>Front End Developer &amp; UI Designer, Michigan Publishing, University of Michigan, Ann Arbor, 2013-present</strong></p>

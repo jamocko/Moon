@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Julie Mocko's CV
+title: Curriculum Vita
 tags: [about, Julie, Mocko]
 date: 2018-03-28
 comments: false
@@ -8,24 +8,27 @@ comments: false
 <div class="cv">
 	<a href="/files/McGlone-CV-2015.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
 				<div itemscope itemtype="http://data-vocabulary.org/Person">
-				<span itemprop="name"><h1>Jonathan McGlone</h1></span>
+				<span itemprop="name"><h1>Julie A. Mocko, Ph.D.</h1></span>
 				<address>
-				<span itemprop="affiliation"><strong>University of Michigan Libraries</strong><br></span>
-				<span itemprop="affiliation">Michigan Publishing<br></span>
-				839 Greene St 1210 Buhr Bldg<br>
-				Ann Arbor MI 48104-3209<br>
-				<abbr title="phone">P:</abbr> (734) 763-4260<br>
-				<span class="obfuscate">ude.hcimu@enolgcmj</span>
+				<span itemprop="affiliation"><strong>Cincinnati Children's Hospital Medical Center</strong><br></span>
+				<span itemprop="affiliation">Department of Pediatrics<br></span>
+                <span itemprop="affiliation">Division of Developmental Biology and Chronobiology<br></span>
+				3333 Burnett Avenue<br>
+				Cincinnati, OH 45229<br>
+				<abbr title="phone">P:</abbr> (832) 457-1897 <br>
+				<span class="obfuscate">jmocko@gmail.com</span>
 				</address>
 				</div>
 				
-				<p>Academic librarian engaged in front end development, user interface design, accessibility + usability, and digital publishing workflows for academic publishers committed to open access. Keen to support emerging and non-traditional publishing models and technologies that advance scholarly publishing's transformation.</p>
+				<p>Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.</p>
 				
-				<h2>Degrees</h2>
-				<p><strong><abbr title="Masters of Library and Information Science">MLIS</abbr>, Wayne State University, Detroit, MI, 2008</strong><br>
-				<!-- <a href="/files/McGlone-OpenAccessJournals-2008.pdf" title="Open Access Journals: Towards a Digital Commons for Scholarly Communication"> --><em>Open Access Journals: Towards a Digital Commons for Scholarly Communication</em> <!-- (PDF)</a> --></p>
+				<h2>Education</h2>
+				<p><strong><abbr title="Doctorate of Philosophy">Ph.D.</abbr>, Physiological Optics and Vision Science
+                <p>University of Houston, College of Optometry, Houston, TX, 2017</strong><br>
+				<em>Dissertation: The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity</em></p>
 				
-				<p><strong>BA, Communications &amp; Film Studies, Calvin College, Grand Rapids, MI, 2005</strong></p>
+				<p><strong>B.S., Behavioral Neuroscience
+                <br>Northeastern University, Boston, MA, 2009</strong></p>
 				
 				<h2>Professional Employment</h2>
 				<p><strong>Front End Developer &amp; UI Designer, Michigan Publishing, University of Michigan, Ann Arbor, 2013-present</strong></p>

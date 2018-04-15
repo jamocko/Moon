@@ -21,6 +21,18 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 |University of Houston, College of Optometry    |   Houston, TX |
 {: rules="groups"}
 
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
 
 <abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science**  
 *University of Houston, College of Optometry, Houston, TX, 2017*  

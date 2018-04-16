@@ -19,27 +19,24 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 # Education
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
-    <td>May 2017</td>
+    <td width = 70%><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
+    <td width = 30%>May 2017</td>
   </tr>
   <tr>
-    <td><i>University of Houston, College of Optometry</i></td>
-    <td>Houston, TX</td>
+    <td width = 70%><i>University of Houston, College of Optometry</i></td>
+    <td width = 30%>Houston, TX</td>
   </tr>
-    <tr>
-        <td><b>Dissertation:</b><i> The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity</i> </td>
-    </tr>
 </table>
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
 
 <table>
   <tr>
-      <td><abbr title="Bachelors of Science"><b>B.S.</b></abbr><b>, Behavioral Neuroscience</b></td>
-    <td>Dec 2008</td>
+    <td width = 70%><abbr title="Bachelors of Science"><b>B.S.</b></abbr><b>, Behavioral Neuroscience</b></td>
+    <td width = 30%>Dec 2008</td>
   </tr>
-      <tr>
-          <td><i>Northeastern University</i></td>
-    <td>Boston, MA, </td>
+  <tr>
+    <td width = 70%><i>Northeastern University</i></td>
+    <td width = 30%>Boston, MA, </td>
   </tr>
 </table>
 

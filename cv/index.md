@@ -28,130 +28,147 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 # Professional Experience
 
 
+2017-present	Post-doctoral Research Fellow Circadian rhythms, development, opsins
+				Cincinnati Children’s Hospital Medical Center, Cincinnati, OH
+	Research: The role of atypical opsins (Opn3, Opn4, Opn5) in development and circadian rhythms. 
+2010-2017	Graduate Student Research Assistant  Retinopathy of Prematurity (ROP)
+				University of Houston, Houston, TX
+	Research: The effects of vitamin A treatment in a rat model of retinopathy of prematurity. 
+2010-2017	Volunteer Graduate Tutor and Editor 
+				College of Optometry, University of Houston, Houston, TX
+Tutored Ph.D. students in vision science, experimental design, quantitative methods, and statistics. Coached students for seminar and conference presentations. Proofread grant proposals, presentations, and dissertations.
+	2010-2013		Optometry Teaching Assistant
+Ocular Anatomy Laboratory, Neuroanatomy Laboratory
+			College of Optometry, University of Houston, Houston, TX
+		Taught ocular anatomy and neuroanatomy of graduate optometry students.
+2009-2010	Research Assistant  Retinitis Pigmentosa (RP)
+				Atlanta Veteran’s Affairs Hospital, Atlanta, GA 
+Research: Characterized two genetic rodent models of retinitis pigmentosa (RP), and investigated the therapeutic potential of subretinal electrical stimulation to slow retinal degeneration in rodent models of RP.
+2006-2009	Research Assistant  Retinopathy of Prematurity (ROP)
+				Children’s Hospital Boston, Department of Ophthalmology, Boston, MA 
+Research: The neurovascular relations during retinal development and pathogenesis of ROP. Investigated the therapeutic potential of a visual cycle modulator to mitigate the severity of ROP in rodent models.
+PROFESSIONAL AFFILIATIONS
+Member, American Academy of Optometry, 2012-present
+Member, American Association for the Advancement of Science, 2010-present
+Member, Association for Research in Vision and Ophthalmology, 2007-present
 
-				
-				<h2>Professional Employment</h2>
-				<p><strong>Front End Developer &amp; UI Designer, Michigan Publishing, University of Michigan, Ann Arbor, 2013-present</strong></p>
-				<ul>
-				<li>Lead front end development, UI design, usability, and accessibility for over 50 web assets including open access journals, monographs and websites hosted on a variety of platforms with a variety of internal and external stakeholders.</li>
-				<li>Lead UX, UI design, and front-end development for <a href="https://fulcrum.org" title="Fulcrum website">Fulcrum</a>, a Andrew W. Mellon-funded open-source publishing platform that will enable the publication and preservation of digitally enriched monographs. The platform will enable digital publishing fully-encoded XML in <a href="http://projecthydra.org/" title="Project Hydra">Hydra powered Fedora repositories</a>.</li>
-				<li>Led the design and development for <a href="http://www.publishing.umich.edu" title="Michigan Publishing">Michigan Publishing's consolidated branding</a>, including wireframes, responsive web design, and WCAG compliance.</li>
-				<li>Develop scripts and improve workflows for converting and publishing content in specific XML schemas.</li>
-				</ul>
-				
-				<p><strong>Digital Publishing Project Manager, Michigan Publishing, University of Michigan, Ann Arbor, 2012-2013</strong></p>
-				<ul>
-				<li>Project manager for the development, creation, and management of the NEH, CDC, and Robert Wood Johnson Foundation funded <a href="http://www.influenzaarchive.org" title="The American Influenza Epidemic of 1918-1919: A Digital Encyclopedia">The American Influenza Epidemic of 1918-1919: A Digital Encyclopedia</a>. The project consists of a collection of over 16,000 freely available historical documents and photographs complemented with essays exploring how various U.S. cities reacted to the 1918 influenza epidemic.</li> 
-				<li>Managed the web conversion and publication processes for a stable of open access journals published and hosted by Michigan Publishing.</li>
-				<li>Developed scripts and improved workflows for converting and publishing content in specific XML schemas.</li>
-				</ul>
-				
-				<p><strong>Scholarly Communications Librarian, Wayne State University Library System, Wayne State University, Detroit, 2010-2012</strong></p>
-				<ul>
-					<li>Project manager for <a href="http://digitalcommons.wayne.edu" title="DigitalCommons@WSU">Wayne State University Institutional Repository</a> and activities; provided the strategic planning, day-to-day management, staff/department education, marketing and promotion for WSU’s institutional repository.</li>
-					<li>Collaborated with WSU Press to plan, implement, and manage <a href="http://digitalcommons.wayne.edu/wsupress/" title="WSU Press Journals">online subscription based journals program</a>; managed and developed back-end work flow to migrate 6 peer-reviewed journals to Digital Commons; created workshops and training for editorial staff; developed digital publishing internship.</li>
-					<li>Created and led the WSU Scholarly Communications Team, managing projects, outreach, marketing, and other scholarly communications initiatives; coordinated and led first WSU Open Access Week.</li>
-					<li>Researched, planned, implemented, and manage <a href="http://digitalcommons.wayne.edu/etds/" title="ETDs@WSU">open access theses and dissertations program</a>; copyright and permissions management; collaboration with Graduate School, ProQuest, and library departments; established data transformation workflows, involving XSLT transformations of XML.</li>
-					<li>Researched, planned, implemented, and manage faculty self-archiving program; developed workflows and services to handle permissions and rights clearance, document reformatting, and publication deposits to Digital Commons for faculty and staff; hired, trained, and supervised two undergraduate and two graduate interns; developed workshops on self-archiving and author’s rights for librarians, faculty, and graduate students.</li>
-				</ul>
-				
-				<p><strong>Digital Projects Librarian, Wayne State University Library System, Wayne State University, 2008-2010</strong></p>
-				<ul>
-					<li>Managed digital collection of over 300,000 digital images, developing web-services to improve access and usability.</li>
-					<li>Collaborated with the Smithsonian’s Freer Sackler Gallery, <a href="http://peacockroom.wayne.edu/" title="Story of the Beautiful">developing and implementing a digital project</a> that brought the Peacock Room and its collection to a digital environment.</li>
-					<li>Project manager for NEH funded grant to build presentation tools for digital collection software.</li>
-					<li>Assisted in the development and maintenance of Wayne State University Library’s website, including a large-scale project to assess, re-design, build, and implement a new library website.</li>
-					<li>Project manager for Wayne State University Institutional Repository and activities; provided the strategic planning, day-to-day management, staff/department education, marketing and promotion for WSU’s institutional repository.</li>
-				</ul>
-				
-				<p><strong>Freelance Web Developer, 2005-present</strong></p>
-					<p>Providing small-scale web design, development, and consulting services for publishers, academic digital humanities projects, and other digital publishing ventures.</p>
-				
-				<h2>Technology Applications and Expertise</h2>
-					<dl class="dl-horizontal">
-						<dt>Specialized Skills</dt>
-						<dd>User Interface Design, User Testing, Front-End Web Development, Accessibility, Web Design, Web Analytics, Digital Publishing Workflows, Digital Preservation</dd>
-					</dl>
-					<dl class="dl-horizontal">
-						<dt>Markup/Programming</dt>
-						<dd>XTHML, HTML5, CSS, CSS3, JavaScript, Ruby/Rails, XML, XSLT, EPUB3, PHP, Perl, MySQL</dd>
-					</dl>
-					<dl class="dl-horizontal">
-						<dt>Publishing Platforms</dt>
-						<dd>WordPress, Drupal, DLXS, Hydra/Fedora, Digital Commons</dd>
-					</dl>
-					<dl class="dl-horizontal">
-						<dt>Applications</dt>
-						<dd>Adobe Creative Suite, Oxygen, Balsamiq, Atom, Microsoft Office, Google Drive</dd>
-					</dl>
-					<dl class="dl-horizontal">
-						<dt>OS/Environments</dt>
-						<dd>Mac, Linux, Unix, Ubuntu, Windows</dd>
-					</dl>
-					<h2>Presentations and Publications</h2>
-					<p><strong>Austin, TX. Invited Panelist and Panelist Chair.</strong> <em>Association of American University Presses Annual Meeting 2017</em>, "Accessibility is for Everyone: Implementing Accessibility Initiatives Across Your Organization" June 2017.</p>
+HONORS, AWARDS AND FELLOWSHIPS
+2015		American Academy of Optometry Best Student Presentation; American Academy of Optometry; Awarded to one student from all scientific paper of poster presentations at the annual AAO meeting based on novelty, scientific merit, quality of writing, and presentation.
+2015		Alcon Foundation Ezell Fellowship; American Optometric Foundation; Graduate prospectus prize and two student travel fellowships to the 2015 American Academy of Optometry and 2016 Association for Research in Vision and Ophthalmology annual meetings.
+2014		Alcon Foundation Ezell Fellowship; American Optometric Foundation; Graduate prospectus prize and two student travel fellowships to the 2014 American Academy of Optometry and 2015 Association for Research in Vision and Ophthalmology annual meetings.
+2013, 2014		Graduate Student Presentation of the Year Award; Awarded to one student in the Physiological Optics and Vision Science program annually.
+College of Optometry, University of Houston, Houston, TX.
+2013		Minnie Flaura Turner Memorial Fund Award; The Minnie Flaura Turner Memorial Fund for Impaired Vision Research, “The effects of vitamin A treatment on a rat model of ROP.” Graduate prospectus prize and certificate of merit.
+2013		Student Travel Fellowship; American Academy of Optometry, “Effects of vitamin A on a rat model of retinopathy of prematurity.” Association for Research in Vision and Ophthalmology annual meeting, Seattle, WA.
+2012, 2013		Teaching Assistant of the Year Award.
+			College of Optometry, University of Houston, Houston, TX. 
+2010-2013 		University Presidential Fellowship.
+			College of Optometry, University of Houston, Houston, TX.
+2009 		Alex Skavinsky Award for Excellence in Behavioral Neuroscience; Awarded to one student in the Behavioral Neuroscience program each graduating class. Northeastern University, Boston, MA.
+2007 	Summer Student Fellowship; Fight for Sight, “The molecular basis for neurovascular abnormalities in retinopathy of prematurity.” Undergraduate summer research grant.
 
-					<p><strong>Baltimore, MD. Conference Panelist.</strong> <em>Library Publishing Forum 2017</em>, "More than a Platform: Supporting Open Access, Digital Scholarly Publications From Acquisition to Distribution," March 2017.</p>
 
-					<p><strong>Baltimore, MD. Conference Presentation.</strong> <em>Library Publishing Forum 2017</em>, "The Fulcrum Platform: First Reactions, Second Opinions," March 2017. Presented with Rebecca Welzenbach.</p>
 
-					<p><strong>Philadelphia, PA. Invited Workshop Panelist.</strong> <em>Association of American University Presses Annual Meeting 2016, Production and Design Workshop: Accessibility is Accessible</em>, "Getting to Accessible Publishing at the University of Michigan Press," June 2016. Slides available at <a href="https://goo.gl/ZaEkgC">https://goo.gl/ZaEkgC</a>.</p>
-					
-					<p><strong>Denton, TX. Conference Panelist.</strong> <em>Library Publishing Forum 2016, University of North Texas</em>, "Mellon Project Updates: Fulcrum: Building a Hosted Platform for Managing Monographic Source Materials and Born Digital Publications," May 2016.</p>
-					
-					<p><strong>Ann Arbor, MI. Conference Presenter.</strong> <em>University of Michigan StaffWorks Best Practices and Technology Conference</em>, "Dear Editor: Cooperation for Accessible Publishing at the University of Michigan Press," May 2016.</p>
-					
-					<p><strong>Ann Arbor, MI. Invited Co-Presenter.</strong> <em>Rackham Graduate School</em>, "Building a Professional Presence Online," March 2015. Presented with Meredith Kahn.</p>
-					
-					<p><strong>Ann Arbor, MI. Invited Panelist.</strong> <em>Interdisciplinary Committee on Organizational Studies (ICOS), University of Michigan</em>, "Toward an Open Science Framework: Finding Common Ground for Researchers, Developers, and Publishers," November 2014.</p>
-					
-					<p><strong>Ann Arbor, MI. Conference Presenter.</strong>  <em>Enriching Scholarship 2014, University of Michigan</em>, "Using GitHub to Create and Host a Personal Website," May 2014. Article version available at <a href="http://jmcglone.com/guides/github-pages/" title="Using GitHub to Create and Host a Personal Website">http://jmcglone.com/guides/github-pages/</a>.</p>
-					
-					<p><strong>Ann Arbor, MI. Invited Co-Presenter.</strong>  <em>Institute for the Humanities, University of Michigan</em>, "Building a Professional Presence Online," January 2014. Presented with Meredith Kahn. Notes available at <a href="http://goo.gl/n99ApZ" title="Notes on Building a Professional Presence Online">http://goo.gl/n99ApZ</a>. Slides available at <a href="http://goo.gl/REzxJz" title="Slides for Building a Professional Presence Online">http://goo.gl/REzxJz</a>.</p>
-				
-					<p><strong>McGlone, J.</strong> (2014). Looking Under the Hood: A View of the Digital Projects Librarian in the Academic Library. In R. Befus and J. Wurm (Eds.), <em>The New Academic Librarian: Essays on Changing Roles and Responsibilities</em> (pp. 67-88). Jefferson, NC: McFarland Press.</p>
-					
-					<p><strong>Ann Arbor, MI. Invited Presenter.</strong>  <em>Institute for the Humanities, University of Michigan</em>, "Publishing Practice Series: Building Your Online Identity," October 2013.</p>
-					
-					<p><strong>McGlone, J.</strong> (2013). Preserving and Publishing Digital Content Using XML Workflows. In A.P. Brown (Ed.), <em>The Library Publishing Toolkit</em> (pp. 97-108). Geneseo, NY: IDS Project Press. Chapter available at: <a href="http://hdl.handle.net/2027.42/99563" title="Preserving and Publishing Digital Content Using XML Workflows">http://hdl.handle.net/2027.42/99563</a>. Volume available at: <a href="http://opensuny.org/omp/index.php/IDSProject/catalog/book/25" title="he Library Publishing Toolkit">http://opensuny.org/omp/index.php/IDSProject/catalog/book/25</a>.
-					
-					<p>Charbonneau, D. and <strong>McGlone, J.</strong> (2013). Faculty experiences with the National Institutes of Health (NIH) public access policy, compliance issues, and copyright practices. <em>Journal of the Medical Library Association, 101</em> (1), 21-25, <a href="http://dx.doi.org/10.3163%2F1536-5050.101.1.004" title="Faculty experiences with the National Institutes of Health (NIH) public access policy, compliance issues, and copyright practices">http://dx.doi.org/10.3163%2F1536-5050.101.1.004</a>.</p>
-					
-					<p><strong>Detroit, MI. Conference Panelist.</strong> <em>Michigan Library Association Annual Conference</em>. "Scholarly Communication Success: Librarians at the Forefront of Scholarly Communication and Digital Publishing Efforts," November 2012. Presented with Meredith Kahn and Meghan Finch.</p>
-					
-					<p><strong>Rochester, MI. Conference Co-Presenter.</strong> <em>E-Cornucopia 2011: The Open Digital University, Oakland University</em>, “Scholarly Communications@WSU: Roadmap to Success,” May 2011. Presented with Suzan Alteri. Available at: <a href="http://digitalcommons.wayne.edu/libsp/48/" title="Scholarly Communications@WSU: Roadmap to Success">http://digitalcommons.wayne.edu/libsp/48/</a>.</p>
- 
-					<p><strong>West Lafayette, IN. Invited Panelist.</strong> <em>IMLS Workshop, Library-Based Publishing: Strategies for Success, Organization and Collaboration Panel, Purdue University</em>, “WSU Libraries & WSU Press: E-Journals Collaboration,” May 2011.</p>
- 
-					<p><strong>Detroit, MI.  Invited Presenter.</strong>  <em>Digital Humanities Collaboratory, Wayne State University</em>, “Preserving Access in the Humanities: Open Access and the Digital Commons,” March 2011.</p>
-	 
-					<p><strong>Grand Rapids, MI.  Invited Presenter.</strong>  <em>Michigan Academic Libraries Council Spring Meeting</em>. “Choosing and Using DigitalCommons@WSU: Preserving Wayne State University's Scholarly Output,” March 2011. Available at: <a href="http://digitalcommons.wayne.edu/libsp/42/" title="Choosing and Using DigitalCommons@WSU: Preserving Wayne State University's Scholarly Output">http://digitalcommons.wayne.edu/libsp/42/</a>.</p>
- 
-					<p><strong>Traverse City, MI.  Conference Co-Presenter.</strong>  <em>Michigan Library Association Annual Conference.</em> “After Digitization: Tools and Ideas for Improving Digital Collection Services,” November 2010. Presented with Adrienne Aluzzo. Available at: <a href="http://digitalcommons.wayne.edu/libsp/38/" title="After Digitization: Tools and Ideas for Improving Digital Collection Services">http://digitalcommons.wayne.edu/libsp/38/</a>.</p>
- 
-					<p><strong>Atlanta, GA.  Conference Co-Presenter.</strong> <em>Library Information and Technology Association (LITA) National Conference.</em> “DLO to Go: Fostering Instructional Use of New Media,” October 2010. Presented with Nardina N. Mein and Joshua Neds-Fox.</p>
- 
-					<p><strong>Baltimore, MD.  Conference Co-Presenter.</strong> Coalition for Networked Information (CNI) Spring Members Meeting. “DLO to Go: Fostering Instructional use of New Media,” March 2010. Presented with Sandra Yee, Nardina N. Mein, and Joshua Neds-Fox. Available at: <a href="http://digitalcommons.wayne.edu/libsp/14/">http://digitalcommons.wayne.edu/libsp/14/</a>.</p>
- 
-					<p>Mein, N.N., Klein, J., Aluzzo, A., Armstrong, A., Decker, M., <strong>McGlone, J.</strong>, Neds-Fox, J. (2009). Digital learning and development environment: NEH white paper. WSU Library Scholarly Publications. Paper 43. Available at: <a href="http://digitalcommons.wayne.edu/libsp/43">http://digitalcommons.wayne.edu/libsp/43</a>.</p>
- 
-					<p><strong>Detroit, MI.  Invited Presenter.</strong> Detroit Area Library Network (DALNET). “Digital Commons@WSU: Recommendations on IR Software and Implementation,” April 2009.</p>
- 
-					<p><strong>Chicago, IL.  Conference Co-Presenter.</strong> EDUCAUSE 2009 Midwest Regional Conference. “The WSU Digital Learning and Development Sandbox,” March 2009. Presented with Julie Klein and Anne-Marie Armstrong.</p>
-				
-				<h2>Professional Activities and Service</h2>
-				<ul class="list-unstyled">
-					<li>Managing Editor, <em><a href="http://www.journalofelectronicpublishing.org" title="Journal of Electronic Publishing">Journal of Electronic Publishing</a></em> 2013-2017</li>
-					<li><a href="https://github.com/IDPF/epub-revision/wiki/EPUB-3.1" title="EPUB 3.1 Working Group">EPUB 3.1 Working Group</a>, <a href="https://github.com/daisy/epub-revision-a11y/wiki" title="Accessibility Sub Group">Accessibility Sub Group</a> 2015-present</li>
-					<li>MLibrary Open Access Committee 2013-2016</li>
-					<li><a href="http://www.digitalpreservation.gov/ndsa" title="National Digital Stewardship Alliance">National Digital Stewardship Alliance</a>, Content Working Group 2012-2014</li>
-					<li>WSU Graduate Council 2011-2012</li>
-					<li>WSU Digital Humanities Collaboratory 2010-2012</li>
-					<li>Michigan Library Association Web Advisory Committee 2010-2012</li>
-					<li>American Library Association 2008-2012</li>
-					<li>Association of College and Research Libraries 2008-2012</li>
-					<li>Library Information Technology Association 2008-2012</li>
-					<li>Michigan Library Association 2008-2012</li>
-				</ul>
-				
-</div>
+
+
+TEACHING EXPERIENCE
+COURSES TAUGHT AT UNIVERSITY OF HOUSTON - ASSISTANT
+2014		Texas Optometry Career Opportunities Program (TEXOCOP)		
+		Designed and team taught inquiry activity on pinholes and optics
+2010 - 2013		Optometry Teaching Assistantships
+	OPTO 6224	Visual Perception
+OPTO 5135	Ocular Anatomy Laboratory
+OPTO 5134	Neuroanatomy Laboratory
+COURSES TAKEN ON TEACHING
+Fall 2010	Secondary School Science Methods (SEDE 6324) 
+College of Education, University of Houston, Houston, TX
+ADDITIONAL TEACHING TRAINING
+2014	ISEE Professional Development Program; Annual evidence based teaching training program held by the Institute for Scientist and Engineer Educators for selected applicants to learn how to teach through inquiry.
+University of California, Santa Cruz, CA.
+2013		ASCO 2nd Annual Future Faculty Program; Annual conference held by the Association of Schools and Colleges of Optometry for fifteen selected applicants intending to pursue careers in optometric academia.
+Washington University Medical Center, St. Louis, MO.
+PUBLICATIONS    
+PEER REVIEWED PUBLICATIONS
+In Preparation
+1. Mocko J.A., Wei Y., Frishman L.J., Otteson, D.C., Couroucli X.I., (2018) Effects of high dose vitamin A supplementation on a rat model of oxygen induced retinopathy, Investigative Ophthalmology & Vision Science. Expected submission: Summer 2018.
+In Review
+2. Vemaraju S, Nayak G, Buhr E.D., Odaka Y, Zhang K.X., Mocko J.A., Smith A.N., Upton B.A., Zhan J.J., Borra V.J., Bernhard E., Murakami K., Nguyen M.T., Gordon S.A., Wu G., Schmidt R., Mei X., Petts N.T., Batie M., Rao S., Hogenesch J.B., Nakamura T., Van Gelder R.N., Lang R.A. (2018) A light-opsin 3 pathway in adipocytes regulates the circadian clock and neonatal energy balance, Nature. Currently in review.
+Published
+1. Mao C.A., Agca C., Mocko-Strand J.A., Wang, J., Ulrich-Lüter, E, Pan P., Wang S.W., Arnone M.I., Frishman L.J., Klein W.H., (2016) Substituting Mouse Transcription Factor Pou4f2 with a Sea Urchin Ortholog Restores Retinal Ganglion Cell Development, Proceedings of Royal Society B: Biological Sciences. 283(1826): 20152978.
+2. Ciavatta V.T., Mocko J.A., Kim M.K., Pardue, M.T., (2013) Subretinal electrical stimulation preserves inner retinal function in RCS rat retina., Molecular Vision. 19:995-1005. Cited 7 times per Google Scholar, most recent citation in 2015.
+3. Mocko J.A., Kim M., Faulkner A.E., Cao Y., Ciavatta V.T., Pardue M.T., (2011) Effects of subretinal electrical stimulation in mer-KO mice. Investigative Ophthalmology and Vision Science. 52(7):4223-30. Cited 10 times, most recent citation in 2016.
+4. Akula J.D., Hansen R.M., Tzekov R., Favazza T.L., Vyhovsky T.C., Benador I.Y., Mocko J.A., McGee D., Kubota R., Fulton A.B., (2010) Visual Cycle Modulation in Neurovascular Retinopathy. Experimental Eye Research. 91(2):153-61. Cited 14 times, most recent citation in 2015.
+5. Akula J.D., Favazza T.L., Mocko J.A., Benador I.Y., Asturias A.L., Kleinman M.S., Hansen R.M., Fulton A.B., (2009) The anatomy of the rat eye with oxygen-induced retinopathy. Documenta Ophthalmologica. 2009; 120(1):41-50. Cited 21 times, most recent citation in 2016.
+6. Fulton A.B., Akula J.D., Mocko J.A., Hansen R.M., Benador I.Y., Beck S.C., Fahl E., Seeliger M.W., Moskowitz A., Harris M.E., Retinal degenerative and hypoxic ischemic disease. Documenta Ophthalmologica. 118(1):55-61. Cited 39 times, most recent citation in 2015.
+7. Akula J.D., Mocko J.A., Benador I.Y., Hansen R.M., Favazza T.L., Vyhovsky T.C., Fulton A.B., (2008) The neurovascular relation in oxygen-induced retinopathy. Molecular Vision. 14:2499-508. Cited 37 times, most recent citation in 2015.
+8. Hansen R.M., Eklund S.E., Benador I.Y., Mocko J.A., Akula J.D., Liu Y., Martinez-Perez M.E., Fulton A.B., (2008) Retinal degeneration in children: Dark-adapted visual threshold and arteriolar diameter, Vision Research. 48(3):325-31. Cited 15 times, most recent citation in 2015.
+9. Akula J.D., Mocko J.A., Moskowitz A., Hansen R.M., Fulton A.B., (2007) The Oscillatory Potentials of the Dark-Adapted Electroretinogram in Retinopathy of Prematurity, Investigative Ophthalmology and Visual Science. 48(12):5788-97. Cited 46 times, most recent citation in 2015.
+
+CONFERENCE PROCEEDINGS 
+Refereed Proceedings, published abstracts
+1. Mocko J.A., Wei Y., Frishman L.J., Otteson, D.C., Couroucli X.I., (2015) Relationships between neural and vascular parameters in a rat model of oxygen induced retinopathy (OIR); effects of high dose vitamin A (HDVA) treatment. Optom Vis Sci. 92: E-Abstract 155001. (paper presentation) 
+2. Mocko-Strand J.A., Wei Y., Frishman L.J., Otteson, D.C., Couroucli X.I., (2015) Effects of high dose vitamin A supplementation on retinal thickness in a rat model of oxygen induced retinopathy (OIR). Invest Ophthalmol Vis Sci. 56:3387 ARVO E-Abstract (poster presentation)
+3. Mocko-Strand J.A., Wei Y., Frishman L.J., Otteson, D.C., Couroucli X.I., (2014) Vascular endothelial growth factor A and hypoxia inducible factor 1α mRNA expression with vitamin A treatment in oxygen induced retinopathy (OIR). Optom Vis Sci. 91: E-Abstract 145315. (poster presentation)
+4. Mocko-Strand J.A., Wei Y., Frishman L.J., Otteson, D.C., Couroucli X.I., (2014) High dose vitamin A supplementation reduces proangiogenic gene expression in a rat model of oxygen induced retinopathy (OIR). Invest Ophthalmol Vis Sci. 55:5379 ARVO E-Abstract. (poster presentation)
+5. Mocko J.A., Wei Y., Frishman L.J., Couroucli X.I., (2013) Effects of vitamin A on a rat model of retinopathy of prematurity. Invest Ophthalmol Vis Sci. 54:5079 ARVO E-Abstract. (poster presentation)
+6. Akula J.D., Moskowitz A., Pardue M.T., Iuvone P.M., Mocko J.A., Hansen R.M., Fulton A.B., (2010) Refraction in an Oxygen-Induced Retinopathy (OIR) Rat Model of Retinopathy of Prematurity (ROP): Is the "ROP Rat" a Good Model? Invest Ophthalmol Vis Sci. 51: ARVO E-Abstract 4477. (poster presentation)
+7. Ciavatta V.T., Kim M.K., Cao Y., Aung M.H., Mocko J.A., Pardue M.T., (2010) Effect of Subretinal Electrical Stimulation Dose on Growth Factor Expression in RCS Rat Retinae. Invest Ophthalmol Vis Sci. 51: ARVO E-Abstract 4513. (poster presentation)
+8. Mocko J.A., Ciavatta V.T., Kim M.K., Aung M.H., Pardue M.T., (2010) Effects of different treatment regimens of subretinal electrical stimulation on the retinal function in RCS rat retinae. Invest Ophthalmol Vis Sci. 51: ARVO E-Abstract 4518. (poster presentation)
+9. Kim M.K., Mocko J.A., Olson D.E., Thule P., Pardue M.T., Barnes C.S., (2010) Electroretinogram Changes With Scotopic Stimuli in Retinas of Diabetic Patients With and Without Retinopathy. Invest Ophthalmol Vis Sci. 51: ARVO E-Abstract 4685. (poster presentation)
+10. Mocko J.A., Favazza T.L., Benador I.Y., Hansen R.M., Fulton A.B., Akula J.D., (2009) Temporal course of VEGF mRNA and protein expression in a rat model of retinopathy of prematurity. Invest Ophthalmol Vis Sci. 50: ARVO E-Abstract 3120. (poster presentation)
+11. Favazza T., Benador I.Y., Mocko J.A., Vyhovsky T.C., Hansen R.M., Fulton A.B., Akula J.D., (2009) Anatomical and histological features in rat models of retinopathy of prematurity. Invest Ophthalmol Vis Sci. 50: ARVO E-Abstract 3125. (poster presentation)
+12. Mocko J.A., Akula J.D., Benador I.Y., DiNardo, A., Hansen R.M., Fulton, A.B. (2008) Expression of ‘neural’ growth factors directs angiogenesis early in the course of ROP. Invest Ophthalmol Vis Sci. 49: ARVO E-Abstract 2633. (poster presentation)
+13. Akula J.D., Asturias A.L., Dagi A.R., Mocko J.A., Hansen R.M., Martinez-Perez M.E., Fulton A.B., (2007) Do the rod photoreceptors and other retinal neurons predict vascular outcome in ROP? Invest Ophthalmol Vis Sci. 48: ARVO E-Abstract 4060. (poster presentation)
+
+PLATFORM PRESENTATIONS 
+CONFERENCE PRESENTATIONS
+2016. Effects of vitamin A on a rat model of retinopathy of prematurity (ROP). University of Houston, College of Optometry Annual Research Showcase, Houston, TX. (poster presentation).
+2015. Relationships between neural and vascular parameters in a rat model of oxygen induced retinopathy (OIR); effects of high dose vitamin A (HDVA) treatment. American Academy of Optometry Annual Meeting, New Orleans, LA. (paper presentation)
+2015. Effects of high dose vitamin A supplementation on retinal thickness in a rat model of oxygen induced retinopathy (OIR). Association for Research in Vision and Ophthalmology Annual Meeting, Denver, CO. (poster presentation)
+2015. Vascular endothelial growth factor A and hypoxia inducible factor 1α mRNA expression with vitamin A treatment in oxygen induced retinopathy (OIR). University of Houston, College of Optometry Annual Research Showcase, Houston, TX. (poster presentation).
+2014. Vascular endothelial growth factor A and hypoxia inducible factor 1α mRNA expression with vitamin A treatment in oxygen induced retinopathy (OIR). American Academy of Optometry Annual Meeting, Denver, CO. (poster presentation)
+2014. High dose vitamin A supplementation reduces proangiogenic gene expression in a rat model of oxygen induced retinopathy (OIR). Association for Research in Vision and Ophthalmology Annual Meeting, Orlando, FL. (poster presentation)
+2013. Effects of vitamin A on a rat model of retinopathy of prematurity (ROP). Association for Research in Vision and Ophthalmology Annual Meeting, Seattle, WA. (poster presentation)
+2010. Effects of different treatment regimens of subretinal electrical stimulation on the retinal function in RCS rat retinae. Association for Research in Vision and Ophthalmology Annual Meeting, Ft. Lauderdale, FL. (poster presentation)
+2009. Temporal course of VEGF mRNA and protein expression in a rat model of retinopathy of prematurity. Association for Research in Vision and Ophthalmology Annual Meeting, Ft. Lauderdale, FL. (poster presentation)
+2008. Expression of ‘neural’ growth factors directs angiogenesis early in the course of ROP. Association for Research in Vision and Ophthalmology Annual Meeting, Ft. Lauderdale, FL. (poster presentation)
+
+INVITED PLATFORM PRESENTATIONS
+2016. Effects of High-Dose Vitamin A Supplementation on Neurovascular Development of the Retina in a Rat Model of Retinopathy of Prematurity. Cincinnati Children’s Hospital Medical Center, Department of Pediatric Ophthalmology, Division of Chronobiology and Developmental Biology, Cincinnati, OH (research seminar)
+2012. Research in Optometry – Optometry Summer Research Program Round Table Discussion. College of Optometry, University of Houston, Houston, TX. (panelist)
+2010. Advanced Electroretinography (ERG) Analysis Techniques. Emory Eye Center, Department of Ophthalmology, Emory University, Atlanta, GA. (research seminar) 
+2010. The rates of neural retinal degeneration in two rodent models of retinitis pigmentosa implanted with an artificial silicone retina. Emory Eye Center, Department of Ophthalmology, Emory University, Atlanta, GA. (research seminar)
+
+GRANT FUNDING 
+1. Houston Area Vision Training Grant, Sponsor: Ruth L. Kirschstein-National Service Research Award, 5T32EY007024-32; 
+SC Massey, PI. Dates: 5/1/2013 – 4/30/2017
+Title: High Dose Vitamin A Supplementation and Retinopathy of Prematurity: Effects and Mechanism.
+Role: Pre-doctoral Trainee.
+Annual award amount: $26,463. 
+2. Student Vision Research Support Grant, Sponsor: University of Houston College-based Grants Program		
+JA Mocko, PI. Dates: 5/16/2013–12/31/2013 
+Title: The effects of vitamin A treatment on two rat models of retinopathy of prematurity (ROP).
+Role: Principal Investigator.
+	Award amount: $2,500. 
+3. Student Vision Research Support Grant, Sponsor: University of Houston College-based Grants Program		
+JA Mocko, PI. Dates: 5/16/2012–12/31/2012 
+Title: The effect of eliminating inward rectifying potassium channels (Kir4.1) in Müller glia in generating the dark-adapted ERG of the mouse.
+Role: Principal Investigator.
+	Award amount: $6,500. 
+4. Student Summer Fellowship, Sponsor: Fight for Sight, Anne Fulton, PI.
+JA Mocko. Dates: 5/1/2007- 9/1/2007 
+Title: The molecular basis for neurovascular abnormalities in retinopathy of prematurity. 
+Role: Undergraduate student researcher.
+	Award amount: $2,500. 
+PROFESSIONAL SERVICE 
+SERVICE TO THE UNIVERSITY OF HOUSTON
+College of Optometry, UH
+2011-2016	Host/Student Interviewer for Physiological Optics Graduate Program Admissions
+2014-2015		President of the Physiological Optics Graduate Student Association (POGSA)
+2014-2015		Officer and Founding Member of Women and Young Scientists in Eye Research (WYSER)
+SERVICE TO THE PROFESSION
+Assistant Peer Reviewer for Scientific Journals 
+Investigative Ophthalmology & Visual Science
+
+Student Volunteer, Optical Society of America
+Fall 2013 Meeting, Houston, TX

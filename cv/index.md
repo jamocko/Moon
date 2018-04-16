@@ -17,28 +17,14 @@ comments: false
 Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
 <hr>			
 # Education
-<table width = 300px, border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
-    <td>May 2017</td>
-  </tr>
-  <tr>
-    <td><i>University of Houston, College of Optometry</i></td>
-    <td>Houston, TX</td>
-  </tr>
-</table>
-**Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
+<abbr title="Doctorate of Philosophy">**Ph.D.**</abbr>**, Physiological Optics and Vision Science,** May 2017  
+*University of Houston, College of Optometry*, Houston, TX  
+**Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*  
 
-<table width = 300px, border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td><abbr title="Bachelors of Science"><b>B.S.</b></abbr><b>, Behavioral Neuroscience</b></td>
-    <td>Dec 2008</td>
-  </tr>
-  <tr>
-    <td><i>Northeastern University</i></td>
-    <td>Boston, MA, </td>
-  </tr>
-</table>
+<abbr title="Bachelors of Science">**B.S.**</abbr>**, Behavioral Neuroscience,** Dec 2009  
+*Northeastern University*, Boston, MA 
+<hr>
+# Professional Experience
 
 
 

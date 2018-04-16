@@ -14,9 +14,10 @@ comments: false
 <abbr title="phone">P:</abbr> *(832) 457-1897*  
 *jmocko@gmail.com*  
 
-Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
-<hr>  			
-# Education  
+Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.  
+<hr>        
+
+# Education     
 <abbr title="Doctorate of Philosophy"> **Ph.D.** </abbr> **, Physiological Optics and Vision Science,** May 2017  
 *University of Houston, College of Optometry*, Houston, TX  
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*  

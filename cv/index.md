@@ -18,21 +18,22 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 <hr>        
 
 # Education     
-<abbr title="Doctorate of Philosophy"> **Ph.D.** </abbr> **, Physiological Optics and Vision Science,**&emsp;&emsp;May 2017  
+<abbr title="Doctorate of Philosophy"> **Ph.D.** </abbr> **, Physiological Optics and Vision Science,**  May 2017  
 *University of Houston, College of Optometry*, Houston, TX  
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*  
-**GPA:4.0**
+**GPA: 4.0**
 
-<abbr title="Bachelors of Science"> **B.S.** </abbr> **, Behavioral Neuroscience,**&emsp;&emsp;Dec 2009  
+<abbr title="Bachelors of Science"> **B.S.** </abbr> **, Behavioral Neuroscience,**  Dec 2009  
 *Northeastern University*, Boston, MA  
-**GPA:3.9**
+**GPA: 3.9**
 <hr>  
 # Professional Experience
 
+2017-present **Post-doctoral Research Fellow:** Circadian rhythms, development, opsins  
+<font color = "white">2017-present</font>*Cincinnati Children’s Hospital Medical Center*, Cincinnati, OH  
+<font color = "white">2017-present</font>Research: The role of atypical opsins (Opn3, Opn4, Opn5) in development and circadian rhythms.  
 
-2017-present	Post-doctoral Research Fellow Circadian rhythms, development, opsins
-				Cincinnati Children’s Hospital Medical Center, Cincinnati, OH
-	Research: The role of atypical opsins (Opn3, Opn4, Opn5) in development and circadian rhythms. 
+
 2010-2017	Graduate Student Research Assistant  Retinopathy of Prematurity (ROP)
 				University of Houston, Houston, TX
 	Research: The effects of vitamin A treatment in a rat model of retinopathy of prematurity. 

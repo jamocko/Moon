@@ -19,13 +19,16 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 # Education
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-      <td><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
+    <td><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
     <td>May 2017</td>
   </tr>
-      <tr>
-          <td><i>University of Houston, College of Optometry</i></td>
+  <tr>
+    <td><i>University of Houston, College of Optometry</i></td>
     <td>Houston, TX</td>
   </tr>
+    <tr>
+        <td><b>Dissertation:</b><i> The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity</i> </td>
+    </tr>
 </table>
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
 

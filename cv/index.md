@@ -17,7 +17,7 @@ comments: false
 Self-directed and highly motivated data scientist and biomedical researcher looking to transition into the data science field, with 11+ years of experience with experimental design, data collection, management, analysis and interpretation, hypothesis testing, statistical design and modeling, data visualization, and presentation of complicated technical concepts to both technical and non-technical audiences.
 <hr>			
 # Education
-<table border="0" cellspacing="0" cellpadding="0">
+<table width = 300px, border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width = 70%><abbr title="Doctorate of Philosophy"><b>Ph.D.</b></abbr><b>, Physiological Optics and Vision Science</b></td>
     <td width = 30%>May 2017</td>
@@ -29,7 +29,7 @@ Self-directed and highly motivated data scientist and biomedical researcher look
 </table>
 **Dissertation:** *The effects of high dose vitamin A supplementation on the neurovascular development of the retina in an oxygen induced retinopathy rat model of retinopathy of prematurity*
 
-<table>
+<table width = 300px, border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width = 70%><abbr title="Bachelors of Science"><b>B.S.</b></abbr><b>, Behavioral Neuroscience</b></td>
     <td width = 30%>Dec 2008</td>

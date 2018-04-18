@@ -3,7 +3,7 @@ layout: post
 title:  "Retinal degeneration in children: dark adapted visual threshold and arteriolar diameter."
 date:   2010-08-01
 excerpt: "Vision Research 2008 Feb;48(3):325-31."
-feature: http://jamocko.github.io/assets/img/RetinalCrossSection.PNG
+feature: http://jamocko.github.io/assets/img/RetinalDegen.PNG
 tag:
 - Retinal Degeneration
 - Publication

@@ -3,7 +3,7 @@ layout: post
 title:  "Retinal degenerative and hypoxic ischemic disease."
 date:   2009-02-01
 excerpt: "Documenta Ophthalmologica 2009 Feb;118(1):55-61."
-feature: http://jamocko.github.io/assets/img/RetinalFlatMounts.PNG
+feature: http://jamocko.github.io/assets/img/RetinalDegenHypox.PNG
 tag:
 - Retinal Development
 - Retinopathy of Prematurity (ROP)

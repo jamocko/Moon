@@ -12,7 +12,7 @@ comments: true
 ---
 
 ## The anatomy of the rat eye with oxygen-induced retinopathy.
-Akula JD, Favazza TL, **Mocko JA**, Benador IY, Asturias AL, Kleinman MS, Hansen RM, Fulton AB.
+Akula JD, Favazza TL, **Mocko JA**, Benador IY, Asturias AL, Kleinman MS, Hansen RM, Fulton AB.  
 Doc Ophthalmol. 2010 Feb;120(1):41-50. doi: 10.1007/s10633-009-9198-1. Epub 2009 Oct 10.
 
 ## Abstract

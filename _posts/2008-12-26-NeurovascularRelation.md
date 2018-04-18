@@ -2,7 +2,7 @@
 layout: post
 title:  "The neurovascular relation in oxygen-induced retinopathy."
 date:   2008-12-26
-excerpt: "Mol Vis. 2008;14:2499-508."
+excerpt: "Molecular Vision 2008;14:2499-508."
 feature: http://jamocko.github.io/assets/img/RetinalCrossSection.PNG
 tag:
 - Retinal Development
@@ -13,7 +13,7 @@ comments: true
 
 ## The neurovascular relation in oxygen-induced retinopathy.
 Akula JD, **Mocko JA**, Benador IY, Hansen RM, Favazza TL, Vyhovsky TC, Fulton AB.  
-Mol Vis. 2008;14:2499-508. Epub 2008 Dec 26.
+Molecular Vision 2008;14:2499-508. Epub 2008 Dec 26.
 
 ## Abstract
 **PURPOSE:**  

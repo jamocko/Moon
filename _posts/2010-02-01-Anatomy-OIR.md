@@ -5,8 +5,8 @@ date:   2010-02-01
 excerpt: "Doc Ophthalmol. 2010 Feb;120(1):41-50."
 feature: http://jamocko.github.io/assets/img/RetinalFlatMounts.PNG
 tag:
-- Retinal Degeneration
-- Subretinal Electrical Stimulation
+- Retinal Development
+- Retinopathy of Prematurity (ROP)
 - Publication
 comments: true
 ---

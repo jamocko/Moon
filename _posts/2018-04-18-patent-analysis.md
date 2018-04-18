@@ -21,7 +21,8 @@ comments: true
 
 The **patent analysis project** was done as a collaboration between myself (as a freelance data scientist) and David Andrews, JD of [Legal Analytics](http://analytics.legal/).  Below is a summary of my findings for this project:
 <hr>
-### Goal  
+
+## Goal  
 The goal of this project was to explore the PTAB data and determine whether any measures could be used to aid in the prediction of the patent outcome.  We have found that none of the measures in the data set were good predictors of whether or not a patent became “institutionalized”.
 
 ## Methods  

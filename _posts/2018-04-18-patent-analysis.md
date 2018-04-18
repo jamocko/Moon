@@ -43,7 +43,7 @@ The following measures were analyzed:
 A logistic regression predictive mathematical model was used to determine which, if any, of these measures could be used to predict whether or not future patents become institutionalized.
 
 ## Results  
-None of the measures analyzed were strongly associated with whether or not a patents was institutionalized.  According to the model, the following measures showed a slight association with the outcome.  Please note that the following associations describe a general trend across all of the data, and will not necessarily imply that any given patent will show this relationship.
+None of the measures analyzed were strongly associated with whether or not a patent was institutionalized.  According to the model, the following measures showed a slight association with the outcome.  Please note that the following associations describe a general trend across all of the data, and will not necessarily imply that any given patent will show this relationship.
 
 **Type of industry:**
 Patents originating from “tech” and “other” industries were more likely to have a positive outcome (institutionalized) than patents from the “medical” industry.  

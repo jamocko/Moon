@@ -3,7 +3,7 @@ layout: post
 title:  "The neurovascular relation in oxygen-induced retinopathy."
 date:   2008-12-26
 excerpt: "Molecular Vision 2008;14:2499-508."
-feature: http://jamocko.github.io/assets/img/RetinalCrossSection.PNG
+feature: http://jamocko.github.io/assets/img/NeurovascularRelation.PNG
 tag:
 - Retinal Development
 - Retinopathy of Prematurity (ROP)

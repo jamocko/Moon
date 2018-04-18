@@ -4,7 +4,7 @@ title:  "Patent Analysis Project"
 date:   2018-04-18
 excerpt: "Click Read More to view my R Notebook showing analysis of patent data in collaboration with Legal Analytics"
 project: true
-feature: http://jamocko.github.io/assets/img/LegalAnalytics.png
+feature: https://www.patentspostgrant.com/ptab-clarifies-weight-of-claimed-condition-precedent/
 tag:
 - projects
 - R notebook

@@ -3,6 +3,7 @@ layout: post
 title:  "Substituting mouse transcription factor Pou4f2 with a sea urchin orthologue restores retinal ganglion cell development."
 date:   2016-03-16
 excerpt: "Proc Biol Sci. 2016 Mar 16;283(1826):20152978"
+feature: http://jamocko.github.io/assets/img/ERG_Pou4f2.PNG
 tag:
 - Retinal Development
 - Publication

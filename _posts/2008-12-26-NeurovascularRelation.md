@@ -5,8 +5,8 @@ date:   2008-12-26
 excerpt: "Mol Vis. 2008;14:2499-508."
 feature: http://jamocko.github.io/assets/img/RetinalCrossSection.PNG
 tag:
-- Retinal Degeneration
-- Subretinal Electrical Stimulation
+- Retinal Development
+- Retinopathy of Prematurity (ROP)
 - Publication
 comments: true
 ---

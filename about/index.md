@@ -2,7 +2,7 @@
 layout: page
 title: About Julie Mocko, Ph.D.
 tags: [about, Julie, Mocko]
-feature: http://jamocko.github.io/assets/img/PosterPresentation.jpg
+feature: http://jamocko.github.io/assets/img/RetinalCrossSection.png
 date: 2018-03-28
 comments: false
 ---

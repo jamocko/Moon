@@ -3,7 +3,7 @@ layout: post
 title:  "The anatomy of the rat eye with oxygen-induced retinopathy."
 date:   2010-02-01
 excerpt: "Documenta Ophthalmologica 2010 Feb;120(1):41-50."
-feature: http://jamocko.github.io/assets/img/RetinalFlatMounts.PNG
+feature: http://jamocko.github.io/assets/img/RetinalFlatMounts.png
 tag:
 - Retinal Development
 - Retinopathy of Prematurity (ROP)

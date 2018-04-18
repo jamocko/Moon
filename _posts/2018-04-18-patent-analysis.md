@@ -2,7 +2,7 @@
 layout: post
 title:  "Patent Analysis Project"
 date:   2018-04-18
-excerpt: "COMING SOON - Click Read More to view my R Notebook showing analysis of patent data in collaboration with Legal Analytics"
+excerpt: "Click Read More to view my R Notebook showing analysis of patent data in collaboration with Legal Analytics"
 project: true
 feature: http://jamocko.github.io/assets/img/LegalAnalytics.png
 tag:

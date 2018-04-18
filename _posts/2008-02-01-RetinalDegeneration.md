@@ -11,7 +11,7 @@ comments: true
 ---
 
 ## Retinal degeneration in children: dark adapted visual threshold and arteriolar diameter.
-Hansen RM1, Eklund SE, Benador IY, **Mocko JA**, Akula JD, Liu Y, Martinez-Perez ME, Fulton AB.  
+Hansen RM, Eklund SE, Benador IY, **Mocko JA**, Akula JD, Liu Y, Martinez-Perez ME, Fulton AB.  
 Vision Research 2008 Feb;48(3):325-31. Epub 2007 Aug 31.
 
 ## Abstract

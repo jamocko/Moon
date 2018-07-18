@@ -1,6 +1,6 @@
 ---
 layout: training
-title: All Notes
-excerpt: "A List of Notes from Classes"
+title: Notes on Material from Data Science Courses and Training
+excerpt: "A List of Notes from Data Science Classes"
 comments: false
 ---

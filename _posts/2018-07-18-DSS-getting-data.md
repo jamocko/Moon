@@ -14,7 +14,7 @@ comments: true
 ---
 
 ## My Notes
-This R Notebook is a collection of my notes from weeks 1 and 2 of the <b>Getting and Cleaning Data</b> course offered by Coursera.  The notes include R code snippets and links to further resources.
+This R Notebook is a collection of my notes from weeks 1 and 2 of the <b>Getting and Cleaning Data</b> course offered by Coursera.  The notes include R code snippets and links to further resources.  Please note that these notes do not include comprehensive explanations of all the concepts.  They are meant to go along with the video lectures of the course and to serve as a reference guide after taking the course.
 
 <div markdown="0"><a href="http://juliemocko.com/notebooks/getting-data/" class="btn btn-info">View R Notebook</a></div> 
 

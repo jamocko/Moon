@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on Getting Data"
+title:  "Notes on Getting Data - Coursera Getting and Cleaning Data Weeks 1-2"
 date:   2018-07-18
 excerpt: "Click Read More to view my R Notebook containing notes from the <b>Getting and Cleaning Data Coursera Course</b> that is part of the Data Science Specialization, offered by John's Hopkins University"
 project: false

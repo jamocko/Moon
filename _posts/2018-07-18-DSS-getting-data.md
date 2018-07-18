@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Getting Data"
 date:   2018-07-18
-excerpt: "Click Read More to view my R Notebook containing notes for the Getting and Cleaning Data Coursera Course that is part of the Data Science Specialization, offered by John's Hopkins University"
+excerpt: "Click Read More to view my R Notebook containing notes from the <b>Getting and Cleaning Data Coursera Course</b> that is part of the Data Science Specialization, offered by John's Hopkins University"
 project: false
 training: true
 feature: 
@@ -12,14 +12,16 @@ tag:
 comments: true
 ---
 
-## Overview
-<b>Growth Analysis</b> is one of my R notebooks containing data exploration and statistical analysis for a project analyzing how mouse growth changed over a period of time with respect to mouse genotype, sex, and litter size.  
+## My Notes
+This R Notebook is a collection of my notes from weeks 1 and 2 of the <b>Getting and Cleaning Data</c> course offered by Coursera.  The notes include R code snippets and links to further resources.
 
-<div markdown="0"><a href="http://juliemocko.com/notebooks/growth-analysis/" class="btn btn-info">View R Notebook</a></div> 
+<div markdown="0"><a href="http://juliemocko.com/notebooks/getting-data/" class="btn btn-info">View R Notebook</a></div> 
 
-## Background
-*Please note that the data have been altered, and the results are reported in a vague fashion for the purposes of display in my portfolio, as the data are sensitive and not yet published.*
+## From Coursera
+<a href = "https://www.coursera.org/learn/data-cleaning/home/info" class="btn btn-info"><b>About this Course</b></a>
+Before you can work with data you have to get some. This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also cover the basics of data cleaning and how to make data “tidy”. Tidy data dramatically speed downstream data analysis tasks. The course will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course will cover the basics needed for collecting, cleaning, and sharing data.  
 
-The **growth analysis project** has been a large portion of my post-doctoral research at the Lang Lab.  The lab is interested in a number of genes that may play a role in early body development and metabolism.  My role in this project has been to collect mouse growth data (weight, length, and body mass index (BMI)) from genetically modified mice over the course of nine different ages, beginning shortly after birth.  Although the primary factor influencing mouse growth under investigation in this study is the effect of a specific gene, I noticed during my data collection that mouse growth was also impacted by sex (M/F) and litter size (the total number of siblings in a litter).  
 
-This R notebook contains a sample of my data exploration and statistical analysis for this project.  Studies are ongoing to characterize the mechanisms underlying the observed differences in mouse growth, however, these are beyond the scope of this R notebook. 
+
+
+

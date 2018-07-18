@@ -7,7 +7,8 @@ project: false
 training: true
 feature: 
 tag:
-- training
+- getting data
+- reading data
 - R notebook
 comments: true
 ---

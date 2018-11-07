@@ -11,7 +11,9 @@ comments: false
 
 ## Professional Summary
 
-I'm a biomedical research scientist turned data scientist. I completed my post-doctoral research fellowship in the Lang Lab at the Cincinnati Children's Hospital Medical Center in June, and am moving to Houston at the end of July.  For the past 11 years, I have been a data enthusiast: I've been collecting data, wrangling data into a usable format, exploring relationships and visualizing my data, conducting statistical analyses on my data, and finally presenting my findings and interpretations - in peer-reviewed publications, at university seminars, and at international conferences.
+I'm a biomedical research scientist turned data scientist. After finishing my Ph.D. in Physiological Optics and Vision Science at the Univeristy of Houston in May, 2017 and completing a post-doctoral research fellowship in the Lang Lab at the Cincinnati Children's Hospital Medical Center this past June, I have returned to Houston, TX to pivot my career away from the lab bench and towards big data analytics.   
+
+For the past 11 years, I have been a data enthusiast: I've been collecting data, wrangling data into a usable format, exploring relationships and visualizing my data, conducting statistical analyses on my data, and finally presenting my findings and interpretations - in peer-reviewed publications, at university seminars, and at international conferences.
 
 <a href="http://jamocko.github.io/assets/docs/JulieMocko_CV.docx" class="btn btn-info">Academic CV (Word)</a> &emsp; &emsp;<a href="http://jamocko.github.io/assets/docs/JulieMocko_Resume.docx" class="btn btn-info">Resume (Word)</a>
 

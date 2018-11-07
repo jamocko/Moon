@@ -16,7 +16,7 @@ comments: true
 <b>Houston Temperatures</b> is one of my Jupyter notebooks showing a simple visualization of temperature highs and lows from 2005 to 2015 in Houston, TX.  
 
 <div markdown="0"><a href="http://juliemocko.com/notebooks/houston-temps/" class="btn btn-info">View Jupyter Notebook</a></div> 
-<div markdown="0"><a href="http://jamocko.github.io/assets/code/HoustonTemps.ipynb" class="btn btn-info">ipynb File</a></div> 
+<div markdown="0"><a href="https://github.com/jamocko/jamocko.github.io/blob/master/assets/code/HoustonTemps.ipynb" class="btn btn-info">View Notebook on Github</a></div> 
 
 ## Background
 

@@ -27,3 +27,8 @@ I found the average maximum and minimum recorded temperatures across weather sta
 	<a href="http://juliemocko.com/notebooks/houston-temps/"><img src="http://jamocko.github.io/assets/img/Houston_Temps.png"></a>
 	<figcaption><a href="http://juliemocko.com/notebooks/houston-temps/" title="Houston Temperatures Jupyter Notebook">High and Low Temperatures in Houston Temperatures from 2005 - 2015</a>.</figcaption>
 </figure>
+
+<figure>
+	<a href="http://juliemocko.com/notebooks/houston-temps/"><img src="http://jamocko.github.io/assets/img/Me_200px.png"></a>
+	<figcaption><a href="http://juliemocko.com/notebooks/houston-temps/" title="Houston Temperatures Jupyter Notebook">High and Low Temperatures in Houston Temperatures from 2005 - 2015</a>.</figcaption>
+</figure>

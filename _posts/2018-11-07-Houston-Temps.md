@@ -7,8 +7,8 @@ project: true
 feature: http://jamocko.github.io/assets/img/Houston_Temps.png
 tag:
 - projects
-- Jupyter notebook
-- R
+- jupyter notebook
+- python
 comments: true
 ---
 

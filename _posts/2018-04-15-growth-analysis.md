@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Growth Analysis Project"
+title:  "[R] Growth Analysis Project"
 date:   2018-04-15
 excerpt: "Click Read More to view my R Notebook showing data exploration and statistical analysis for a project analyzing how mouse growth changed over a period of time with respect to mouse genotype, sex, and litter size"
 project: true

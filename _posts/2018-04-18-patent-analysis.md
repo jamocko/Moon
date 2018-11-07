@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Patent Analysis Project"
+title:  "[R] Patent Analysis Project"
 date:   2018-04-18
 excerpt: "Click Read More to view my R Notebook showing analysis of patent data in collaboration with Legal Analytics"
 project: true

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Python] Houston Playgrounds Project"
+title:  "[Python] Houston Play Spaces Project"
 date:   2018-11-15
-excerpt: "Click Read More to view my Jupyter Notebook showing a map of playgrounds in Houston, TX"
+excerpt: "Click Read More to view my Jupyter Notebook showing a map of children's outdoor play spaces in Houston, TX"
 project: true
 feature: https://res.cloudinary.com/mommy-nearest/image/upload/c_fill,h_450,w_800/sjd19q4jlstuhywc50cy.jpg
 tag:
@@ -13,10 +13,10 @@ comments: true
 ---
 
 ## Overview
-<b>Houston Playgrounds</b> is one of my Jupyter notebooks mapping the playgrounds in Houston, TX.  Data was gathered from the <a href="https://www.houstontx.gov/parks/"> Houston Parks & Recreation Department </a> website.  
+<b>Houston Play Spaces</b> is one of my Jupyter notebooks mapping the free public playspaces for children in Houston, TX: playgrounds, pools, water parks, and skating parks.  Data was gathered from the <a href="https://www.houstontx.gov/parks/"> Houston Parks & Recreation Department </a> website.  
 
-<div markdown="0"><a href="http://juliemocko.com/notebooks/houston-playgrounds/" class="btn btn-info">View Jupyter Notebook</a></div> 
-<div markdown="0"><a href="https://github.com/jamocko/jamocko.github.io/blob/master/assets/code/HoustonPlaygrounds.ipynb" class="btn btn-info">View Notebook on Github</a></div> 
+<div markdown="0"><a href="http://juliemocko.com/notebooks/houston-playgrounds/extra/" class="btn btn-info">View Jupyter Notebook</a></div> 
+<div markdown="0"><a href="https://github.com/jamocko/jamocko.github.io/blob/master/assets/code/HoustonPlaygroundsExtra.ipynb" class="btn btn-info">View Notebook on Github</a></div> 
 
 ## Background
 
@@ -24,10 +24,10 @@ Playing outside, climbing, jumping, swinging and laughing is not only one of the
 
 <b>Increase outdoor playtime for children.</b>  
 
-The Houston Texas Parks and Recreation Department has a list of all public Houston playgrounds with a small description of the kinds of equipment present. I have created a simple interactive map to help parents find playgrounds near them.
+The Houston Texas Parks and Recreation Department has a list of all public Houston playgrounds, pools, water parks, and skating parks with a small description of the kinds of equipment present. I have created a simple interactive map to help parents find these playspaces near them.
 
 <figure>
-	<a href="http://juliemocko.com/notebooks/houston-playgrounds/map/"><img src="http://jamocko.github.io/assets/img/HoustonPlaygroundMap.PNG"></a>
+	<a href="http://juliemocko.com/notebooks/houston-playgrounds/extra/map"><img src="http://jamocko.github.io/assets/img/HoustonPlaySpaces.PNG"></a>
 </figure>
 
-<div markdown="0"><a href="http://juliemocko.com/notebooks/houston-playgrounds/map/" class="btn btn-info">View Interactive Map</a></div>
+<div markdown="0"><a href="http://juliemocko.com/notebooks/houston-playgrounds/extra/map/" class="btn btn-info">View Interactive Map</a></div>

@@ -26,4 +26,4 @@ Playing outside, climbing, jumping, swinging and laughing is not only one of the
 
 The Houston Texas Parks and Recreation Department has a list of all public Houston playgrounds with a small description of the kinds of equipment present. I have created a simple interactive map to help parents find playgrounds near them.
 
-<div markdown="0"><a href="https://github.com/jamocko/jamocko.github.io/blob/master/assets/code/Houston_playgrounds_map.html" class="btn btn-info">View Interactive Map</a></div>
+<div markdown="0"><a href="http://juliemocko.com/notebooks/houston-playgrounds/map/" class="btn btn-info">View Interactive Map</a></div>

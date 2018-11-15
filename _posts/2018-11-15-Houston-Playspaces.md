@@ -13,7 +13,7 @@ comments: true
 ---
 
 ## Overview
-<b>Houston Play Spaces</b> is one of my Jupyter notebooks mapping the free public playspaces for children in Houston, TX: playgrounds, pools, water parks, and skating parks.  Data was gathered from the <a href="https://www.houstontx.gov/parks/"> Houston Parks & Recreation Department </a> website.  
+<b>Houston Play Spaces</b> is one of my Jupyter notebooks mapping the free public playspaces for children in Houston, TX: playgrounds, pools, water parks, and skating parks.  Data were gathered from the <a href="https://www.houstontx.gov/parks/"> Houston Parks & Recreation Department </a> website.  
 
 <div markdown="0"><a href="http://juliemocko.com/notebooks/houston-playgrounds/extra/" class="btn btn-info">View Jupyter Notebook</a></div> 
 <div markdown="0"><a href="https://github.com/jamocko/jamocko.github.io/blob/master/assets/code/HoustonPlaygroundsExtra.ipynb" class="btn btn-info">View Notebook on Github</a></div> 

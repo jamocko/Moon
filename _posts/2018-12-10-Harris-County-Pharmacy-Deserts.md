@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[R] Harris County Pharmacy Deserts Project"
-date:   2018-04-15
+date:   2018-12-10
 excerpt: "Click Read More to view my R Notebook showing a visualization of closest pharmacy distances by block group in Harris County"
 project: true
 feature: 

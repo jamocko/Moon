@@ -19,7 +19,7 @@ comments: true
 ## Background
 The purpose of this notebook is to identify pharmacy deserts in Harris county.
 
-**Purpose:** Accessibility to a pharmacy is an important facilitator of overall health, and is critical to ensure proper utilization of medications and adequate delivery of healthcase services. Community pharmacies offer a wide spectrum of services including dispensing medications, patient counselling, screening tests, immunization services, wellness programs, and education programs. Unlike many other healthcare settings, community pharmacies offer greater accessibility, with their extended hours of operation, availability of home delivery of medications, and no need to schedule an appointment for services.
+**Purpose:** Accessibility to a pharmacy is an important facilitator of overall health, and is critical to ensure proper utilization of medications and adequate delivery of healthcare services. Community pharmacies offer a wide spectrum of services including dispensing medications, patient counseling, screening tests, immunization services, wellness programs, and education programs. Unlike many other healthcare settings, community pharmacies offer greater accessibility, with their extended hours of operation, availability of home delivery of medications, and no need to schedule an appointment for services.
 
 However, not everyone has equal access to community pharmacies. Similar to “food deserts”, coined by the USDA, there exist “pharmacy deserts”, or geographic areas which lack access to a nearby pharmacy and where pharmacy services are scarece or difficult to obtain. Prominent public health researcher Dima M. Qato has defined pharmacy deserts in urban areas as regions where there is no pharmacy within one mile.
 

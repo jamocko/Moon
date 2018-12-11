@@ -4,7 +4,7 @@ title:  "[R] Harris County Pharmacy Deserts Project"
 date:   2018-12-10
 excerpt: "Click Read More to view my R Notebook showing a visualization of closest pharmacy distances by block group in Harris County"
 project: true
-feature: 
+feature: http://jamocko.github.io/assets/img/pharms.PNG
 tag:
 - projects
 - R notebook
@@ -27,6 +27,10 @@ However, not everyone has equal access to community pharmacies. Similar to “fo
 
 Census blocks are colored by closest distance from the center of the block to a pharmacy. Distances of greater than 1 mile have been used to denote pharmacy deserts in urban areas, however, for vulnerable populations (elderly, ill, families with young children, or people below the poverty line), even smaller distances can prove to be prohibitive.
 
-**Next Steps:** Quantification and analysis of pharmacy deserts in Harris County and associated demographic information from desert regions.  
+**Next Steps:** Quantification and analysis of pharmacy deserts in Harris County and associated demographic information from desert regions. 
+
+<figure>
+	<a href="http://juliemocko.com/notebooks/harris-county-pharmacy-deserts/map/"><img src="http://jamocko.github.io/assets/img/pharms.PNG"></a>
+</figure>
 
 <div markdown="0"><a href="http://juliemocko.com/notebooks/harris-county-pharmacy-deserts/map/" class="btn btn-info">View Interactive Map</a></div>
